@@ -1,0 +1,6 @@
+{
+	"vscode-edge-devtools.headless": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	}
+}
